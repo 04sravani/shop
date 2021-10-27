@@ -1,0 +1,30 @@
+{
+  "projects": {
+    "default": "eshop-fc6a3",
+    "y": "shivademo-1dae7",
+    "n": "shivademo-1dae7"
+  },
+  "targets": {
+    "eshop-fc6a3": {
+      "hosting": {
+        "shop": [
+          "eshop-fc6a3"
+        ]
+      }
+    },
+    "shop-badd7": {
+      "hosting": {
+        "shop": [
+          "shop-badd7"
+        ]
+      }
+    },
+    "shivademo-1dae7": {
+      "hosting": {
+        "shop": [
+          "shivademo-1dae7"
+        ]
+      }
+    }
+  }
+}
